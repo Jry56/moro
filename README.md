@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 # MORO Furniture Landing Page
 
 Frontend-only HTML/CSS/JavaScript furniture business landing page inspired by the supplied reference.
 
-Includes:
+## Features
+
 - Editorial furniture layout
 - Dark warm visual system
 - Liquid glass navigation and overlays
@@ -15,8 +15,8 @@ Includes:
 - Responsive mobile layout
 - Reduced-motion support
 
-No framework, backend, database, or build step.
-Open `index.html` directly or use VS Code Live Server.
-=======
-# moro
->>>>>>> origin/main
+## Getting Started
+
+No framework, backend, database, or build step is required.
+
+Open `index.html` directly in your browser or use VS Code Live Server.
